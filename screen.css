@@ -49,8 +49,13 @@ p {
     background: linear-gradient(
         to bottom,
         #E9eaec 0%,
-        #E9eaec 50%,
-        #424242 50%,
+        #E9eaec 40%,
+        #424242 40%,
         #424242 100%
     );
+}
+
+pre {
+  color: white;
+  font-size: 1rem;
 }
