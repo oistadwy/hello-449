@@ -2,8 +2,19 @@ h1 {
     font-size: 5rem;
     color: #424242;
 }
+
+h2 {
+    font-weight: bold;
+    font-size: 3.5rem;
+}
+
 img {
     border-radius: 30px;
     height: 227px;
     width: 800px;
+}
+
+.lower {
+    background-color: #E9EAEC;
+    border-radius: 30px;
 }
