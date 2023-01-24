@@ -38,3 +38,7 @@ div {
     padding: 50px;
     width: 500px;
 }
+
+#card > * {
+    flex-basis: 100%;
+}
