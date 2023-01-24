@@ -24,10 +24,13 @@ div {
 }
 
 .lower {
-    background-color: #E9EAEC;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     padding: 100px;
     width: 50%;
+}
+
+#card {
+    background-color: #E9EAEC;
 }
