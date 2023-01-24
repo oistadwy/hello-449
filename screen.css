@@ -1,6 +1,26 @@
 body {
     padding: 300px;
     align-items: center;
+    display: grid;
+    grid-template-columns: 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    grid-template-areas: 
+    "header header"
+    "card1 card2"
+    "card1 card2";
+    ;
+}
+
+header {
+    grid-area: header;
+}
+
+#card1 {
+    grid-area: card1;
+}
+
+#card2 {
+    grid-area: card2;
 }
 
 h1 {
@@ -24,11 +44,7 @@ div {
     margin: 100px;
 }
 
-.lower {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-}
+
 
 #card {
     background-color: #E9EAEC;
