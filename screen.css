@@ -21,6 +21,7 @@ img {
 
 div {
     border-radius: 30px;
+    margin: 100px;
 }
 
 .lower {
@@ -32,6 +33,5 @@ div {
 #card {
     background-color: #E9EAEC;
     padding: 50px;
-    margin: 100px;
     width: 500px;
 }
