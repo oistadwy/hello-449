@@ -1,5 +1,9 @@
 h1 {
     font-size: 5rem;
     color: #424242;
+}
+img {
     border-radius: 30px;
+    height: 227px;
+    width: 800px;
 }
