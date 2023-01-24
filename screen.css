@@ -1,5 +1,6 @@
 body {
-    margin: 100px;
+    padding: 100px;
+    align-items: center;
 }
 
 h1 {
@@ -19,11 +20,11 @@ img {
 }
 
 div {
-    background-color: #E9EAEC;
     border-radius: 30px;
 }
 
 .lower {
+    background-color: #E9EAEC;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
