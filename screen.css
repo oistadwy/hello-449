@@ -17,18 +17,16 @@ h2 {
 }
 
 img {
+    display: block;
     border-radius: 30px;
     background-color: #E9EAEC;
-    flex-basis: 100%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 div {
     border-radius: 30px;
     margin: 100px;
-}
-
-.upper {
-    display: flex;
 }
 
 .lower {
