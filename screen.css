@@ -34,8 +34,8 @@ div {
 #card {
     background-color: #E9EAEC;
     padding: 50px;
+    flex-basis: 100%;
 }
 
 #card > * {
-    flex-basis: 100%;
 }
