@@ -21,5 +21,6 @@ div {
 
 .lower {
     display: flex;
-    position: sticky;
+    justify-content: space-between;
+    align-items: center;
 }
