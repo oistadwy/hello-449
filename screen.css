@@ -36,6 +36,21 @@ div {
 
 #card {
     background-color: #E9EAEC;
-    padding: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
     flex-basis: 100%;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.card2 {
+    background: linear-gradient(
+        to bottom,
+        #E9eaec 0%,
+        #E9eaec 50%,
+        #424242 50%,
+        #424242 100%
+    );
 }
