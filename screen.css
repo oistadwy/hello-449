@@ -7,7 +7,6 @@ body {
     grid-template-areas: 
     "header header"
     "card1 card2"
-    "card1 card2";
     ;
 }
 
