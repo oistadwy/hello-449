@@ -1,19 +1,6 @@
 body {
     padding: 300px;
     align-items: center;
-    display: flex;
-}
-
-#card1 {
-    background-color: #E9EAEC;
-    padding: 50px;
-    width: 500px;
-}
-
-#card2 {
-    background-color: #E9EAEC;
-    padding: 50px;
-    width: 500px;
 }
 
 h1 {
@@ -30,9 +17,22 @@ img {
     border-radius: 30px;
     height: 227px;
     width: 800px;
+    background-color: #E9EAEC;
 }
 
 div {
     border-radius: 30px;
     margin: 100px;
+}
+
+.lower {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#card {
+    background-color: #E9EAEC;
+    padding: 50px;
+    width: 500px;
 }
