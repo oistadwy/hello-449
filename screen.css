@@ -29,14 +29,11 @@ div {
 
 .lower {
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
 }
 
 #card {
     background-color: #E9EAEC;
     padding: 50px;
-    width: 500px;
 }
 
 #card > * {
