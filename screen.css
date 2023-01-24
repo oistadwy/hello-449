@@ -17,10 +17,16 @@ header {
 
 #card1 {
     grid-area: card1;
+    background-color: #E9EAEC;
+    padding: 50px;
+    width: 500px;
 }
 
 #card2 {
     grid-area: card2;
+    background-color: #E9EAEC;
+    padding: 50px;
+    width: 500px;
 }
 
 h1 {
@@ -42,12 +48,4 @@ img {
 div {
     border-radius: 30px;
     margin: 100px;
-}
-
-
-
-#card {
-    background-color: #E9EAEC;
-    padding: 50px;
-    width: 500px;
 }
